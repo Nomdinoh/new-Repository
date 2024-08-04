@@ -1,2 +1,4 @@
 Hi, my name is Malik Nauman
 I am doing by Bs in ELectronics form QAU
+This is the first line in second commit
+This is the second line in second commit
